@@ -9,7 +9,7 @@ Cette page présente diverses captures d'écran de l'implémentation MO5 sur FPG
 
 ### Standard BASIC Boot Screen / Écran de démarrage BASIC standard
 
-<img src="screenshot/basic-boot-screen.jpg" alt="MO5 BASIC Boot Screen" width="640">
+![MO5 BASIC Boot Screen](https://github.com/6502addict/MO5-VHDL/blob/main/screenshot/basic-boot-screen.jpg)
 
 **English**: This is the standard boot screen of the MO5 when starting in BASIC mode without an SDDrive card inserted. The MO5 presents the BASIC environment, ready for programming or loading programs from cassette.
 
@@ -17,7 +17,7 @@ Cette page présente diverses captures d'écran de l'implémentation MO5 sur FPG
 
 ### SDDrive Boot Screen / Écran de démarrage avec SDDrive
 
-<img src="screenshot/sddrive-boot-screen.jpg" alt="SDDrive Menu Screen" width="640">
+![SDDrive Menu Screen](https://github.com/6502addict/MO5-VHDL/blob/main/screenshot/sddrive-boot-screen.jpg)
 
 **English**: When an SDDrive SD card is inserted, the system automatically boots to this file selection menu. Users can navigate through the available .sd disk images using the arrow keys and select one by pressing ENTER.
 
@@ -25,7 +25,7 @@ Cette page présente diverses captures d'écran de l'implémentation MO5 sur FPG
 
 ### BASIC with Disk Access / BASIC avec accès disque
 
-<img src="screenshot/disk-basic-screen.jpg" alt="BASIC with Disk Access" width="640">
+![BASIC with Disk Access](https://github.com/6502addict/MO5-VHDL/blob/main/screenshot/disk-basic-screen.jpg)
 
 **English**: This screen shows the MO5 in BASIC mode with SDDrive active. The system now has access to disk commands and can load and save programs to the virtual disk. Note the "DISK BASIC" message indicating the DOS is loaded.
 
@@ -35,7 +35,7 @@ Cette page présente diverses captures d'écran de l'implémentation MO5 sur FPG
 
 ### 1000 Bornes
 
-<img src="screenshot/1000bornes.jpg" alt="1000 Bornes" width="640">
+![1000 Bornes](https://github.com/6502addict/MO5-VHDL/blob/main/screenshot/1000bornes.jpg)
 
 **English**: The digital adaptation of the famous French card game "1000 Bornes" (Mille Bornes). This strategy game simulates a car race where players must reach 1000 kilometers while dealing with obstacles like flat tires and accidents.
 
@@ -43,7 +43,7 @@ Cette page présente diverses captures d'écran de l'implémentation MO5 sur FPG
 
 ### Choplifter
 
-<img src="screenshot/choplifter.jpg" alt="Choplifter" width="640">
+![Choplifter](https://github.com/6502addict/MO5-VHDL/blob/main/screenshot/choplifter.jpg)
 
 **English**: The MO5 version of the classic helicopter rescue game. Players pilot a helicopter to rescue hostages while avoiding enemy fire. Originally an Apple II game, this port brings the action to the Thomson MO5.
 
@@ -51,7 +51,7 @@ Cette page présente diverses captures d'écran de l'implémentation MO5 sur FPG
 
 ### Astérix
 
-<img src="screenshot/asterix.jpg" alt="Astérix" width="640">
+![Astérix](https://github.com/6502addict/MO5-VHDL/blob/main/screenshot/asterix.jpg)
 
 **English**: Based on the popular French comic book character, this game lets players control Astérix in his adventures through Roman-occupied Gaul. The MO5 version features colorful graphics that capture the spirit of the original comics.
 
@@ -59,7 +59,7 @@ Cette page présente diverses captures d'écran de l'implémentation MO5 sur FPG
 
 ### 1815
 
-<img src="screenshot/1815.jpg" alt="1815" width="640">
+![1815](https://github.com/6502addict/MO5-VHDL/blob/main/screenshot/1815.jpg)
 
 **English**: A strategy game based on the Battle of Waterloo in 1815. Players can command either the French or Allied forces in this historical simulation. This game demonstrates the educational potential of the MO5, which was widely used in French schools.
 
