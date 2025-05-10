@@ -8,8 +8,8 @@ Cette page présente diverses captures d'écran de l'implémentation MO5 sur FPG
 ## Boot Process / Processus de démarrage
 
 ### Standard BASIC Boot Screen / Écran de démarrage BASIC standard
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-![Alt text](screenshot/basic-boot-screen.jpg)
+
+![Standard Basic Boot Screen](https://github.com/6502addict/MO5-VHDL/blob/main/screenshot/basic-boot-screen.jpg)
 
 **English**: This is the standard boot screen of the MO5 when starting in BASIC mode without an SDDrive card inserted. The MO5 presents the BASIC environment, ready for programming or loading programs from cassette.
 
