@@ -8,9 +8,9 @@ Cette page présente diverses captures d'écran de l'implémentation MO5 sur FPG
 ## Boot Process / Processus de démarrage
 
 ### Standard BASIC Boot Screen / Écran de démarrage BASIC standard
-<br>
+
 ![al-tag](https://github.com/6502addict/MO5-VHDL/blob/main/screenshot/basic-boot-screen.jpg)
-<br>
+
 This is the standard boot screen of the MO5 when starting in BASIC mode without an SDDrive card inserted. The MO5 presents the BASIC environment, ready for programming or loading programs from cassette.
 Voici l'écran de démarrage standard du MO5 lors du lancement en mode BASIC sans carte SDDrive insérée. Le MO5 présente l'environnement BASIC, prêt pour la programmation ou le chargement de programmes depuis une cassette.
 
