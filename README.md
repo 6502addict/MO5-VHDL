@@ -1,7 +1,7 @@
 # MO5 FPGA Implementation
 ## Credits and Acknowledgements
 
-![Thomson MO5 Logo](https://placeholder-for-mo5-logo.com/logo.png)
+![Thomson MO5 Logo](https://github.com/6502addict/MO5-VHDL/blob/main/screenshot/basic-boot-screen.jpg)
 
 ## About This Project
 
