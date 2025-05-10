@@ -27,6 +27,16 @@ This method programs the flash memory on the DE1 board. The configuration will p
 7. Wait for the programming and verification to complete
 8. Power cycle the DE1 board to start the MO5 system
 
+### Flashing the MO5 ROM (Important)
+
+The MO5 system requires that the ROM file be properly loaded into the DE1 flash chip:
+
+1. Locate the file `bin/DE1-FLASH.bin` in this GitHub repository
+2. The file must be flashed to the DE1 flash chip using the DE1 Control Panel utility
+3. This utility can be found on the Terasic DE1 CD that came with your board
+4. Follow the DE1 Control Panel instructions to load the binary file to the flash chip
+5. This step is essential for the MO5 system to boot properly
+
 ### Usage Notes
 
 - The system should boot into MO5 BASIC automatically
@@ -67,6 +77,16 @@ Cette méthode programme la mémoire flash de la carte DE1. La configuration per
 6. Cliquez sur "Start" pour programmer la mémoire flash
 7. Attendez que la programmation et la vérification soient terminées
 8. Redémarrez la carte DE1 pour lancer le système MO5
+
+### Programmation de la ROM MO5 (Important)
+
+Le système MO5 nécessite que le fichier ROM soit correctement chargé dans la puce flash DE1 :
+
+1. Localisez le fichier `bin/DE1-FLASH.bin` dans ce dépôt GitHub
+2. Ce fichier doit être programmé dans la puce flash DE1 en utilisant l'utilitaire DE1 Control Panel
+3. Cet utilitaire se trouve sur le CD Terasic DE1 fourni avec votre carte
+4. Suivez les instructions du DE1 Control Panel pour charger le fichier binaire dans la puce flash
+5. Cette étape est essentielle pour que le système MO5 démarre correctement
 
 ### Notes d'Utilisation
 
