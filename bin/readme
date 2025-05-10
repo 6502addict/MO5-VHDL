@@ -14,8 +14,6 @@ This method programs the FPGA directly. The configuration will be lost when powe
 5. Click "Start" to program the FPGA
 6. The MO5 system will start immediately if programming is successful
 
-![Quartus Programmer SOF](https://github.com/6502addict/MO5-VHDL/blob/main/Documentation/images/quartus_programmer_sof.png)
-
 ### Flashing DE1_MO5.pof (Non-volatile Programming)
 
 This method programs the flash memory on the DE1 board. The configuration will persist across power cycles.
@@ -28,8 +26,6 @@ This method programs the flash memory on the DE1 board. The configuration will p
 6. Click "Start" to program the flash memory
 7. Wait for the programming and verification to complete
 8. Power cycle the DE1 board to start the MO5 system
-
-![Quartus Programmer POF](https://github.com/6502addict/MO5-VHDL/blob/main/Documentation/images/quartus_programmer_pof.png)
 
 ### Usage Notes
 
@@ -59,8 +55,6 @@ Cette méthode programme directement le FPGA. La configuration sera perdue lors 
 5. Cliquez sur "Start" pour programmer le FPGA
 6. Le système MO5 démarrera immédiatement si la programmation est réussie
 
-![Quartus Programmer SOF](https://github.com/6502addict/MO5-VHDL/blob/main/Documentation/images/quartus_programmer_sof.png)
-
 ### Programmation Flash avec DE1_MO5.pof (Programmation Non-volatile)
 
 Cette méthode programme la mémoire flash de la carte DE1. La configuration persistera après les cycles d'alimentation.
@@ -73,8 +67,6 @@ Cette méthode programme la mémoire flash de la carte DE1. La configuration per
 6. Cliquez sur "Start" pour programmer la mémoire flash
 7. Attendez que la programmation et la vérification soient terminées
 8. Redémarrez la carte DE1 pour lancer le système MO5
-
-![Quartus Programmer POF](https://github.com/6502addict/MO5-VHDL/blob/main/Documentation/images/quartus_programmer_pof.png)
 
 ### Notes d'Utilisation
 
