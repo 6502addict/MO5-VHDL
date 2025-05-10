@@ -21,7 +21,7 @@ This repository contains documentation for the MO5 FPGA implementation project, 
 - [Manuel Technique de l'Implémentation MO5 sur FPGA](https://github.com/6502addict/MO5-VHDL/blob/main/Documentation/mo5-manuel-fr.md) - Détails techniques de l'implémentation VHDL
 
 #### PDF Files
-- [Guide d'Installation de l'Implémentation MO5 sur FPGA (PDF)](https://github.com/6502addict/MO5-VHDL/blob/main/Documentation/mo5-setup-guide-fr.pdf) - Version PDF du guide d'installation
+- [Guide d'Installation de l'Implémentation MO5 sur FPGA (PDF)](https://github.com/6502addict/MO5-VHDL/blob/main/Documentation/Guide%20d'Installation%20MO5%20FPGA%20(Fran%C3%A7ais).pdf) - Version PDF du guide d'installation
 - [Manuel Technique de l'Implémentation MO5 sur FPGA (PDF)](https://github.com/6502addict/MO5-VHDL/blob/main/Documentation/Manuel%20Technique%20MO5%20FPGA.pdf) - Version PDF du manuel technique
 
 ## Project Overview
