@@ -82,7 +82,6 @@ The MO5 had a fixed 16-color palette:
 ## Resolution and Scaling
 
 The original MO5 had a resolution of 320×200 pixels. This implementation scales the display to work on standard VGA modes:
-- 640×480 (with a vga_translate_640x480 module)
 - 1024×768 (with a vga_translate_1024x768 module)
 
 ## Implementation Details
