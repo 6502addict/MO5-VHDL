@@ -45,7 +45,7 @@ Special thanks for his work on the SD drive implementation that has been adapted
 
 For questions, suggestions, or collaboration opportunities regarding this MO5 FPGA implementation, please contact:
 
-[Your contact information here]
+[didier(at)aida.org]
 
 ## Project Resources
 
